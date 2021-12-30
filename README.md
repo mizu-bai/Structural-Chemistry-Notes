@@ -1,6 +1,6 @@
-# Structural-Chemistry-Notes
+# 结构化学笔记
 
-结构化学笔记
+Github 的 Markdown 不能渲染 LaTeX，但是 Jupyter Notebook 可以啊（
 
 ## 索引
 
